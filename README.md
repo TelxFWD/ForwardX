@@ -81,8 +81,8 @@ A robust and feature-rich Telegram bot built with Telethon to forward messages b
 4. **Configure API Credentials**:
    Open `main.py` in a text editor and replace:
    ```python
-   API_ID = 28451755  # Replace with your API ID
-   API_HASH = "c888900d408dcd71e8bf31f5aa15ae0e"  # Replace with your API hash
+   API_ID = x  # Replace with your API ID
+   API_HASH = "x"  # Replace with your API hash
    ```
 
 5. **Run the Bot**:
