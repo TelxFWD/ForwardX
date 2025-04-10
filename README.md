@@ -37,6 +37,9 @@ A robust and feature-rich Telegram bot built with Telethon to forward messages b
 - **Health Checks**: Runs hourly resource checks, alerting if memory exceeds 500MB or queue nears capacity (80% of 100 messages).
 - **Queue Management**: Uses a capped queue (max 100 messages) to handle failed forwards, dropping oldest messages if full.
 
+
+##Price:- 30 USD
+#Contact :- Fsl_Support
 ---
 
 ## ⚙️ Setup Instructions
